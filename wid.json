@@ -1,0 +1,16 @@
+{
+    "language_tabs": [
+        { 
+            "shell":"Shell"
+        },
+        { 
+            "go": "Go"
+        },
+        {
+            "python": "Python" 
+        },
+        {
+            "javascript": "JavaScript"
+        }
+    ]
+}
